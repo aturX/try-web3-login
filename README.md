@@ -1,5 +1,16 @@
 # Try Web3 Login
 
+
+# start
+
+```
+yarn install
+
+yarn start
+```
+
+
+
 1. 
 ```
 npx create-react-app YOUR_APP_NAME --template typescript
